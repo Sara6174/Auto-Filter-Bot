@@ -8,11 +8,11 @@
 </p>
 <p align="center">
   <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/Auto-Filter-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/Sara6174/Auto-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/MRK-YT/Auto-Filter-Bot/fork">
+  <a href="https://github.com/Sara6174/Auto-Filter-Bot/fork">
     <img src="https://img.shields.io/github/forks/MRK-YT/Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  

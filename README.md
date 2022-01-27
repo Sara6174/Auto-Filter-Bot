@@ -13,7 +13,7 @@
   </a>
   
   <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Sara6174/Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -51,7 +51,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sara6174/Auto-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
